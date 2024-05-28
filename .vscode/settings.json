@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./API/Scripts/JSLproject"
+    ],
+    "python.analysis.typeCheckingMode": "off"
+}
