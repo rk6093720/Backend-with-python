@@ -1,5 +1,5 @@
 # Backend with python
-# (API) PS C:\Users\Rohit Kumar\Desktop\Backend\API\Scripts\JSLproject> python manage.py createsuperuser
+# python manage.py createsuperuser
 Email: admin@gmail.com
 Username: Admin
 Password: 
